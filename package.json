@@ -24,8 +24,8 @@
     "pkg-config": "^1.1.0",
     "semistandard-format": "^3.0.0",
     "standard": "^10.0.0-beta.1",
-    "standard-format": "^2.2.4"
-    "semistandard": "^9.2.1",
+    "standard-format": "^2.2.4",
+    "semistandard": "^9.2.1"
   },
   "devDependencies": {}
 }
